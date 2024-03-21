@@ -1,8 +1,6 @@
 # Functionality:
-The app should allow users to look up the weather around the world. It should detect user errors
-such as spelling or unexpected inputs. It should account for the use of upper- and lower-case
-characters. It should handle errors and exceptions gracefully and prevent run-time errors.
- Retrieve weather data (temperature, humidity, etc.) for the specified city using an open
+
+* Retrieve weather data (temperature, humidity, etc.) for the specified city using an open
 weather API (e.g., OpenWeatherMap).
  Make data available to the application.
  Display the weather information to the user.
